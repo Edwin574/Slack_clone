@@ -15,6 +15,9 @@ header{
     background-color:#541554;
     
 }
+a[href="#"]{
+    color: #4285F4;
+}
 ul li{
     list-style-type: none;
 }
